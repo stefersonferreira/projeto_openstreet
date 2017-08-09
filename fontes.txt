@@ -1,0 +1,5 @@
+https://www.tutorialspoint.com/mongodb/mongodb_query_document.htm
+https://stackoverflow.com
+https://docs.mongodb.com/getting-started/shell/client/
+http://youtube.com/
+
